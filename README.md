@@ -41,3 +41,11 @@ Se aplicaron los tres algoritmos TOPLISS por medio del código propuesto
 
 ![image](https://user-images.githubusercontent.com/99137141/216526293-7aca50df-6e05-41d3-9a4f-55decadf96b5.png)
 
+Para la aplicaión de este algoritmo es necesario usar la Banda 4 y Banda 5 descritos en la imágen como R(4/5)
+
+### Tipo de Sedimentos
+
+Gracias a la comparación del histograma de reflectancia se determinó que se trata de sedimentos arcillosos.
+
+![image](https://user-images.githubusercontent.com/99137141/217703806-ef25f301-a936-4f1d-8879-e3b49911c444.png)
+
