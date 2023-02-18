@@ -1,4 +1,4 @@
-# Distribución de Sedimentos en Deltas
+# Distribución de Sedimentos en Deltas de agua
 
 Un delta es un accidente geográfico convexo formado en la desembocadura de un río en un lago o en el mar a través de los sedimentos que deposita la corriente.
 Se desea analizar la distribución de los sedimnetos que contiene un delta ubicado en el Rió Ometepec, Guerrero. Posteriomente por medio del histrograma raster saber que tipo de sedimento se encuentra en la distribución analizada.
